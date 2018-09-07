@@ -56,12 +56,12 @@ nav li a {
 
 #box-set {
     position: absolute;
-    align-self: auto;
+  /*  align-self: auto; */
     width: 960px;
     height: auto;
     left: 0;
     right: 0;
-    margin: auto; 
+    margin: auto;
     background-color: #ffffff;
     margin-top: 15px;
     padding-bottom: 20px;
